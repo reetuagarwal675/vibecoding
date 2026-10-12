@@ -328,3 +328,18 @@ Use the Google doc integration to create one for me
 
 ### Bugs and fixes
 - No application bug. The external document task requires a connected Google account; local project work remains available.
+
+## Entry 16 — Google Drive setup instructions
+
+### Exact prompt
+~~~~text
+how do i enable the google drive integration here
+~~~~
+
+### What changed
+- Checked official OpenAI documentation for Google Drive plugin installation and account connection.
+- Provided instructions to open the plugin directory, find Google Drive, install it, follow its authentication prompts, and start a new chat in the same local project to use the newly available tools.
+- Prepared the follow-up request to create a Google Doc from docs/CASE_STUDY.md. The document remains pending a verified Google connection.
+
+### Bugs and fixes
+- No new bug. This step provides setup instructions; it does not confirm installation, authentication, or document creation.
