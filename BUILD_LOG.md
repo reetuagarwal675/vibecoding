@@ -288,6 +288,10 @@ Initialize a local git repository and track changes . we will push to Github lat
 - Initialized a local repository with main as its initial branch. No remote was added.
 - Found Git 2.53.0 bundled with GitHub Desktop; the existing global author name and email are configured.
 - The requested submission documents are prepared locally; screenshot PNGs are still manual placeholders.
+- Created initial commit e6f20d3 (Build skill-gap analyzer with synthetic demo and submission materials), tracking 14 files including the original user-supplied jobs.csv and 13 newly created project/material files.
+- Verified that .venv, Python caches, .env, .streamlit/secrets.toml, and .DS_Store are ignored. No remote is configured.
+- Checked that all 13 exact prompts in the case study match this log. A recognizable-credential-literal scan of created project files found no matches; no key was supplied or needed.
+- Updated this log and its corresponding case-study step to record the successful initial commit; these documentation updates are tracked in the local repository as well.
 
 ### Bugs and fixes
 - Git was not on the PowerShell PATH. Used GitHub Desktop's existing bundled git.exe rather than installing another copy.
