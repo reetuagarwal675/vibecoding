@@ -312,3 +312,19 @@ Can you prvide a quick architecture ASCII diagram for the demo here . Keep it hi
 
 ### Bugs and fixes
 - None observed for this diagram request.
+
+## Entry 15 — Google Doc creation request
+
+### Exact prompt
+~~~~text
+Use the Google doc integration to create one for me
+~~~~
+
+### What changed
+- Checked available integrations and found that Google Drive provides Google Docs capabilities.
+- Discovery reported Google Drive not installed or connected. Requested the integration through the available connection workflow.
+- Prepared to create AI Skill-Gap & Job Market Analyzer — Case Study from docs/CASE_STUDY.md once the Google connection is verified.
+- Document creation is pending connection; no Google Doc ID, link, or successful upload is claimed.
+
+### Bugs and fixes
+- No application bug. The external document task requires a connected Google account; local project work remains available.
