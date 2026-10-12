@@ -296,3 +296,19 @@ Initialize a local git repository and track changes . we will push to Github lat
 ### Bugs and fixes
 - Git was not on the PowerShell PATH. Used GitHub Desktop's existing bundled git.exe rather than installing another copy.
 - Repository initialization required approved access because this workspace restricts writes to .git.
+- Documentation tooling issue: refreshing the case-study Git step failed because a Unicode section delimiter was altered when a PowerShell string was piped to Python. Fix: match section boundaries using ASCII prefixes, then regenerate the affected build steps from the log and verify exact prompts again.
+
+## Entry 14 — High-level demo architecture
+
+### Exact prompt
+~~~~text
+Can you prvide a quick architecture ASCII diagram for the demo here . Keep it high level
+~~~~
+
+### What changed
+- Provided an ASCII diagram in the conversation: original CSV or synthetic demo CSV → Upload Data validation/preview → shared session state → shared filters → Overview and Skill-Gap Diagnostic.
+- Explained that Streamlit provides the interface, pandas handles calculations, and Plotly displays charts.
+- No application code or calculation rules changed.
+
+### Bugs and fixes
+- None observed for this diagram request.

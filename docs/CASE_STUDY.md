@@ -1,4 +1,4 @@
-# AI Skill-Gap & Job Market Analyzer ? Case Study
+# AI Skill-Gap & Job Market Analyzer - Case Study
 
 ## Project Overview
 
@@ -358,12 +358,31 @@ Initialize a local git repository and track changes . we will push to Github lat
 - Initialized a local repository with main as its initial branch. No remote was added.
 - Found Git 2.53.0 bundled with GitHub Desktop; the existing global author name and email are configured.
 - The requested submission documents are prepared locally; screenshot PNGs are still manual placeholders.
+- Created initial commit e6f20d3 (Build skill-gap analyzer with synthetic demo and submission materials), tracking 14 files including the original user-supplied jobs.csv and 13 newly created project/material files.
+- Verified that .venv, Python caches, .env, .streamlit/secrets.toml, and .DS_Store are ignored. No remote is configured.
+- Checked that all 13 exact prompts in the case study match this log. A recognizable-credential-literal scan of created project files found no matches; no key was supplied or needed.
+- Updated this log and its corresponding case-study step to record the successful initial commit; these documentation updates are tracked in the local repository as well.
 
 #### Bugs and fixes
 - Git was not on the PowerShell PATH. Used GitHub Desktop's existing bundled git.exe rather than installing another copy.
 - Repository initialization required approved access because this workspace restricts writes to .git.
+- Documentation tooling issue: refreshing the case-study Git step failed because a Unicode section delimiter was altered when a PowerShell string was piped to Python. Fix: match section boundaries using ASCII prefixes, then regenerate the affected build steps from the log and verify exact prompts again.
 
-[INSERT SCREENSHOT: docs/screenshots/local_git.png ? actual initial commit and main branch]
+[INSERT SCREENSHOT: docs/screenshots/local_git.png - actual initial commit and main branch]
+
+### Build step 14 — High-level demo architecture
+#### Exact prompt
+~~~~text
+Can you prvide a quick architecture ASCII diagram for the demo here . Keep it high level
+~~~~
+
+#### What changed
+- Provided an ASCII diagram in the conversation: original CSV or synthetic demo CSV → Upload Data validation/preview → shared session state → shared filters → Overview and Skill-Gap Diagnostic.
+- Explained that Streamlit provides the interface, pandas handles calculations, and Plotly displays charts.
+- No application code or calculation rules changed.
+
+#### Bugs and fixes
+- None observed for this diagram request.
 
 ## Bugs and Fixes
 
@@ -381,6 +400,7 @@ This table reports only issues recorded in BUILD_LOG. Environment issues and com
 | Deprecated chart/table sizing warning (Entry 11) | use_container_width was obsolete in installed Streamlit | Used width='stretch' and pinned tested versions |
 | AppTest temporary-directory cleanup denied (Entry 11) | Windows sandbox denied cleanup at interpreter shutdown | Reran verification with approved temporary-directory access |
 | Bare git command unavailable (Entry 13) | Git was absent from PowerShell PATH | Used GitHub Desktop's existing bundled Git executable |
+| Case-study section refresh failed (Entry 13) | Unicode delimiter changed while piping a PowerShell string to Python | Used ASCII section prefixes and regenerated affected steps |
 
 The original dataset's missing skill/salary overlap is a data limitation, not a software bug. Nine final behavior checks, syntax compilation, and dependency validation passed. The live app and health endpoint returned HTTP 200. The tests use an in-memory uploader substitute and do not certify native browser file selection or screenshots.
 
