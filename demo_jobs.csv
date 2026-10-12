@@ -1,0 +1,121 @@
+job_id,posted_date,title,role_category,seniority,salary_min_usd,salary_max_usd,salary_mid_usd,skills,remote_status,industry,country,source,source_url,data_origin
+synthetic-demo-001,2026-07-01,Junior AI Engineer — Synthetic Demo,AI Engineer,Junior,,,,,Remote,Software,US,local_synthetic_demo,,synthetic
+synthetic-demo-002,2026-07-02,Junior Data Scientist — Synthetic Demo,Data Scientist,Junior,70000,90000,80000,Python;SQL;Statistics;pandas,Hybrid,Software,UK,local_synthetic_demo,,synthetic
+synthetic-demo-003,2026-07-03,Junior ML Engineer — Synthetic Demo,ML Engineer,Junior,90000,110000,100000,Python;Docker;PyTorch;MLOps;AWS,Onsite,Software,CA,local_synthetic_demo,,synthetic
+synthetic-demo-004,2026-07-04,Junior Data Analyst — Synthetic Demo,Data Analyst,Junior,45000,65000,55000,SQL;Excel;Tableau,Remote,Software,IN,local_synthetic_demo,,synthetic
+synthetic-demo-005,2026-07-05,Mid AI Engineer — Synthetic Demo,AI Engineer,Mid,110000,130000,120000,Python;RAG;Docker;SQL,Onsite,Software,UK,local_synthetic_demo,,synthetic
+synthetic-demo-006,2026-07-06,Mid Data Scientist — Synthetic Demo,Data Scientist,Mid,95000,115000,105000,Python;SQL;Statistics;pandas;Machine Learning,Remote,Software,CA,local_synthetic_demo,,synthetic
+synthetic-demo-007,2026-07-07,Mid ML Engineer — Synthetic Demo,ML Engineer,Mid,115000,135000,125000,Python;Docker;PyTorch,Hybrid,Software,IN,local_synthetic_demo,,synthetic
+synthetic-demo-008,2026-07-08,Mid Data Analyst — Synthetic Demo,Data Analyst,Mid,70000,90000,80000,SQL;Excel;Tableau;Python,Onsite,Software,US,local_synthetic_demo,,synthetic
+synthetic-demo-009,2026-07-09,Senior AI Engineer — Synthetic Demo,AI Engineer,Senior,140000,160000,150000,Python;RAG;Docker;SQL;LLM Evaluation,Hybrid,Healthcare,CA,local_synthetic_demo,,synthetic
+synthetic-demo-010,2026-07-10,Senior Data Scientist — Synthetic Demo,Data Scientist,Senior,125000,145000,135000,Python;SQL;Statistics,Onsite,Healthcare,IN,local_synthetic_demo,,synthetic
+synthetic-demo-011,2026-07-11,Senior ML Engineer — Synthetic Demo,ML Engineer,Senior,,,,Python;Docker;PyTorch;MLOps,Remote,Healthcare,US,local_synthetic_demo,,synthetic
+synthetic-demo-012,2026-07-12,Senior Data Analyst — Synthetic Demo,Data Analyst,Senior,100000,120000,110000,SQL;Excel;Tableau;Python;Statistics,Hybrid,Healthcare,UK,local_synthetic_demo,,synthetic
+synthetic-demo-013,2026-07-13,Junior AI Engineer — Synthetic Demo,AI Engineer,Junior,87000,107000,97000,Python;RAG;Docker,Remote,Healthcare,IN,local_synthetic_demo,,synthetic
+synthetic-demo-014,2026-07-14,Junior Data Scientist — Synthetic Demo,Data Scientist,Junior,72000,92000,82000,Python;SQL;Statistics;pandas,Hybrid,Healthcare,US,local_synthetic_demo,,synthetic
+synthetic-demo-015,2026-07-15,Junior ML Engineer — Synthetic Demo,ML Engineer,Junior,92000,112000,102000,Python;Docker;PyTorch;MLOps;AWS,Onsite,Healthcare,UK,local_synthetic_demo,,synthetic
+synthetic-demo-016,2026-07-16,Junior Data Analyst — Synthetic Demo,Data Analyst,Junior,47000,67000,57000,SQL;Excel;Tableau,Remote,Healthcare,CA,local_synthetic_demo,,synthetic
+synthetic-demo-017,2026-07-17,Mid AI Engineer — Synthetic Demo,AI Engineer,Mid,112000,132000,122000,Python;RAG;Docker;SQL,Onsite,Finance,US,local_synthetic_demo,,synthetic
+synthetic-demo-018,2026-07-18,Mid Data Scientist — Synthetic Demo,Data Scientist,Mid,97000,117000,107000,Python;SQL;Statistics;pandas;Machine Learning,Remote,Finance,UK,local_synthetic_demo,,synthetic
+synthetic-demo-019,2026-07-19,Mid ML Engineer — Synthetic Demo,ML Engineer,Mid,117000,137000,127000,Python;Docker;PyTorch,Hybrid,Finance,CA,local_synthetic_demo,,synthetic
+synthetic-demo-020,2026-07-20,Mid Data Analyst — Synthetic Demo,Data Analyst,Mid,72000,92000,82000,SQL;Excel;Tableau;Python,Onsite,Finance,IN,local_synthetic_demo,,synthetic
+synthetic-demo-021,2026-07-21,Senior AI Engineer — Synthetic Demo,AI Engineer,Senior,,,,,Hybrid,Finance,UK,local_synthetic_demo,,synthetic
+synthetic-demo-022,2026-07-22,Senior Data Scientist — Synthetic Demo,Data Scientist,Senior,127000,147000,137000,Python;SQL;Statistics,Onsite,Finance,CA,local_synthetic_demo,,synthetic
+synthetic-demo-023,2026-07-23,Senior ML Engineer — Synthetic Demo,ML Engineer,Senior,147000,167000,157000,Python;Docker;PyTorch;MLOps,Remote,Finance,IN,local_synthetic_demo,,synthetic
+synthetic-demo-024,2026-07-24,Senior Data Analyst — Synthetic Demo,Data Analyst,Senior,102000,122000,112000,SQL;Excel;Tableau;Python;Statistics,Hybrid,Finance,US,local_synthetic_demo,,synthetic
+synthetic-demo-025,2026-07-25,Junior AI Engineer — Synthetic Demo,AI Engineer,Junior,89000,109000,99000,Python;RAG;Docker,Remote,Software,CA,local_synthetic_demo,,synthetic
+synthetic-demo-026,2026-07-26,Junior Data Scientist — Synthetic Demo,Data Scientist,Junior,74000,94000,84000,Python;SQL;Statistics;pandas,Hybrid,Software,IN,local_synthetic_demo,,synthetic
+synthetic-demo-027,2026-07-27,Junior ML Engineer — Synthetic Demo,ML Engineer,Junior,94000,114000,104000,Python;Docker;PyTorch;MLOps;AWS,Onsite,Software,US,local_synthetic_demo,,synthetic
+synthetic-demo-028,2026-07-28,Junior Data Analyst — Synthetic Demo,Data Analyst,Junior,49000,69000,59000,SQL;Excel;Tableau,Remote,Software,UK,local_synthetic_demo,,synthetic
+synthetic-demo-029,2026-07-29,Mid AI Engineer — Synthetic Demo,AI Engineer,Mid,114000,134000,124000,Python;RAG;Docker;SQL,Onsite,Software,IN,local_synthetic_demo,,synthetic
+synthetic-demo-030,2026-07-30,Mid Data Scientist — Synthetic Demo,Data Scientist,Mid,99000,119000,109000,Python;SQL;Statistics;pandas;Machine Learning,Remote,Software,US,local_synthetic_demo,,synthetic
+synthetic-demo-031,2026-07-31,Mid ML Engineer — Synthetic Demo,ML Engineer,Mid,,,,Python;Docker;PyTorch,Hybrid,Software,UK,local_synthetic_demo,,synthetic
+synthetic-demo-032,2026-08-01,Mid Data Analyst — Synthetic Demo,Data Analyst,Mid,74000,94000,84000,SQL;Excel;Tableau;Python,Onsite,Software,CA,local_synthetic_demo,,synthetic
+synthetic-demo-033,2026-08-02,Senior AI Engineer — Synthetic Demo,AI Engineer,Senior,144000,164000,154000,Python;RAG;Docker;SQL;LLM Evaluation,Hybrid,Healthcare,US,local_synthetic_demo,,synthetic
+synthetic-demo-034,2026-08-03,Senior Data Scientist — Synthetic Demo,Data Scientist,Senior,129000,149000,139000,Python;SQL;Statistics,Onsite,Healthcare,UK,local_synthetic_demo,,synthetic
+synthetic-demo-035,2026-08-04,Senior ML Engineer — Synthetic Demo,ML Engineer,Senior,149000,169000,159000,Python;Docker;PyTorch;MLOps,Remote,Healthcare,CA,local_synthetic_demo,,synthetic
+synthetic-demo-036,2026-08-05,Senior Data Analyst — Synthetic Demo,Data Analyst,Senior,104000,124000,114000,SQL;Excel;Tableau;Python;Statistics,Hybrid,Healthcare,IN,local_synthetic_demo,,synthetic
+synthetic-demo-037,2026-08-06,Junior AI Engineer — Synthetic Demo,AI Engineer,Junior,91000,111000,101000,Python;RAG;Docker,Remote,Healthcare,UK,local_synthetic_demo,,synthetic
+synthetic-demo-038,2026-08-07,Junior Data Scientist — Synthetic Demo,Data Scientist,Junior,76000,96000,86000,Python;SQL;Statistics;pandas,Hybrid,Healthcare,CA,local_synthetic_demo,,synthetic
+synthetic-demo-039,2026-08-08,Junior ML Engineer — Synthetic Demo,ML Engineer,Junior,96000,116000,106000,Python;Docker;PyTorch;MLOps;AWS,Onsite,Healthcare,IN,local_synthetic_demo,,synthetic
+synthetic-demo-040,2026-08-09,Junior Data Analyst — Synthetic Demo,Data Analyst,Junior,51000,71000,61000,SQL;Excel;Tableau,Remote,Healthcare,US,local_synthetic_demo,,synthetic
+synthetic-demo-041,2026-08-10,Mid AI Engineer — Synthetic Demo,AI Engineer,Mid,,,,,Onsite,Finance,CA,local_synthetic_demo,,synthetic
+synthetic-demo-042,2026-08-11,Mid Data Scientist — Synthetic Demo,Data Scientist,Mid,101000,121000,111000,Python;SQL;Statistics;pandas;Machine Learning,Remote,Finance,IN,local_synthetic_demo,,synthetic
+synthetic-demo-043,2026-08-12,Mid ML Engineer — Synthetic Demo,ML Engineer,Mid,121000,141000,131000,Python;Docker;PyTorch,Hybrid,Finance,US,local_synthetic_demo,,synthetic
+synthetic-demo-044,2026-08-13,Mid Data Analyst — Synthetic Demo,Data Analyst,Mid,76000,96000,86000,SQL;Excel;Tableau;Python,Onsite,Finance,UK,local_synthetic_demo,,synthetic
+synthetic-demo-045,2026-08-14,Senior AI Engineer — Synthetic Demo,AI Engineer,Senior,146000,166000,156000,Python;RAG;Docker;SQL;LLM Evaluation,Hybrid,Finance,IN,local_synthetic_demo,,synthetic
+synthetic-demo-046,2026-08-15,Senior Data Scientist — Synthetic Demo,Data Scientist,Senior,131000,151000,141000,Python;SQL;Statistics,Onsite,Finance,US,local_synthetic_demo,,synthetic
+synthetic-demo-047,2026-08-16,Senior ML Engineer — Synthetic Demo,ML Engineer,Senior,151000,171000,161000,Python;Docker;PyTorch;MLOps,Remote,Finance,UK,local_synthetic_demo,,synthetic
+synthetic-demo-048,2026-08-17,Senior Data Analyst — Synthetic Demo,Data Analyst,Senior,106000,126000,116000,SQL;Excel;Tableau;Python;Statistics,Hybrid,Finance,CA,local_synthetic_demo,,synthetic
+synthetic-demo-049,2026-08-18,Junior AI Engineer — Synthetic Demo,AI Engineer,Junior,93000,113000,103000,Python;RAG;Docker,Remote,Software,US,local_synthetic_demo,,synthetic
+synthetic-demo-050,2026-08-19,Junior Data Scientist — Synthetic Demo,Data Scientist,Junior,78000,98000,88000,Python;SQL;Statistics;pandas,Hybrid,Software,UK,local_synthetic_demo,,synthetic
+synthetic-demo-051,2026-08-20,Junior ML Engineer — Synthetic Demo,ML Engineer,Junior,,,,Python;Docker;PyTorch;MLOps;AWS,Onsite,Software,CA,local_synthetic_demo,,synthetic
+synthetic-demo-052,2026-08-21,Junior Data Analyst — Synthetic Demo,Data Analyst,Junior,53000,73000,63000,SQL;Excel;Tableau,Remote,Software,IN,local_synthetic_demo,,synthetic
+synthetic-demo-053,2026-08-22,Mid AI Engineer — Synthetic Demo,AI Engineer,Mid,118000,138000,128000,Python;RAG;Docker;SQL,Onsite,Software,UK,local_synthetic_demo,,synthetic
+synthetic-demo-054,2026-08-23,Mid Data Scientist — Synthetic Demo,Data Scientist,Mid,103000,123000,113000,Python;SQL;Statistics;pandas;Machine Learning,Remote,Software,CA,local_synthetic_demo,,synthetic
+synthetic-demo-055,2026-08-24,Mid ML Engineer — Synthetic Demo,ML Engineer,Mid,123000,143000,133000,Python;Docker;PyTorch,Hybrid,Software,IN,local_synthetic_demo,,synthetic
+synthetic-demo-056,2026-08-25,Mid Data Analyst — Synthetic Demo,Data Analyst,Mid,78000,98000,88000,SQL;Excel;Tableau;Python,Onsite,Software,US,local_synthetic_demo,,synthetic
+synthetic-demo-057,2026-08-26,Senior AI Engineer — Synthetic Demo,AI Engineer,Senior,148000,168000,158000,Python;RAG;Docker;SQL;LLM Evaluation,Hybrid,Healthcare,CA,local_synthetic_demo,,synthetic
+synthetic-demo-058,2026-08-27,Senior Data Scientist — Synthetic Demo,Data Scientist,Senior,133000,153000,143000,Python;SQL;Statistics,Onsite,Healthcare,IN,local_synthetic_demo,,synthetic
+synthetic-demo-059,2026-08-28,Senior ML Engineer — Synthetic Demo,ML Engineer,Senior,153000,173000,163000,Python;Docker;PyTorch;MLOps,Remote,Healthcare,US,local_synthetic_demo,,synthetic
+synthetic-demo-060,2026-08-29,Senior Data Analyst — Synthetic Demo,Data Analyst,Senior,108000,128000,118000,SQL;Excel;Tableau;Python;Statistics,Hybrid,Healthcare,UK,local_synthetic_demo,,synthetic
+synthetic-demo-061,2026-08-30,Junior AI Engineer — Synthetic Demo,AI Engineer,Junior,,,,,Remote,Healthcare,IN,local_synthetic_demo,,synthetic
+synthetic-demo-062,2026-08-31,Junior Data Scientist — Synthetic Demo,Data Scientist,Junior,70000,90000,80000,Python;SQL;Statistics;pandas,Hybrid,Healthcare,US,local_synthetic_demo,,synthetic
+synthetic-demo-063,2026-09-01,Junior ML Engineer — Synthetic Demo,ML Engineer,Junior,90000,110000,100000,Python;Docker;PyTorch;MLOps;AWS,Onsite,Healthcare,UK,local_synthetic_demo,,synthetic
+synthetic-demo-064,2026-09-02,Junior Data Analyst — Synthetic Demo,Data Analyst,Junior,45000,65000,55000,SQL;Excel;Tableau,Remote,Healthcare,CA,local_synthetic_demo,,synthetic
+synthetic-demo-065,2026-09-03,Mid AI Engineer — Synthetic Demo,AI Engineer,Mid,110000,130000,120000,Python;RAG;Docker;SQL,Onsite,Finance,US,local_synthetic_demo,,synthetic
+synthetic-demo-066,2026-09-04,Mid Data Scientist — Synthetic Demo,Data Scientist,Mid,95000,115000,105000,Python;SQL;Statistics;pandas;Machine Learning,Remote,Finance,UK,local_synthetic_demo,,synthetic
+synthetic-demo-067,2026-09-05,Mid ML Engineer — Synthetic Demo,ML Engineer,Mid,115000,135000,125000,Python;Docker;PyTorch,Hybrid,Finance,CA,local_synthetic_demo,,synthetic
+synthetic-demo-068,2026-09-06,Mid Data Analyst — Synthetic Demo,Data Analyst,Mid,70000,90000,80000,SQL;Excel;Tableau;Python,Onsite,Finance,IN,local_synthetic_demo,,synthetic
+synthetic-demo-069,2026-09-07,Senior AI Engineer — Synthetic Demo,AI Engineer,Senior,140000,160000,150000,Python;RAG;Docker;SQL;LLM Evaluation,Hybrid,Finance,UK,local_synthetic_demo,,synthetic
+synthetic-demo-070,2026-09-08,Senior Data Scientist — Synthetic Demo,Data Scientist,Senior,125000,145000,135000,Python;SQL;Statistics,Onsite,Finance,CA,local_synthetic_demo,,synthetic
+synthetic-demo-071,2026-09-09,Senior ML Engineer — Synthetic Demo,ML Engineer,Senior,,,,Python;Docker;PyTorch;MLOps,Remote,Finance,IN,local_synthetic_demo,,synthetic
+synthetic-demo-072,2026-09-10,Senior Data Analyst — Synthetic Demo,Data Analyst,Senior,100000,120000,110000,SQL;Excel;Tableau;Python;Statistics,Hybrid,Finance,US,local_synthetic_demo,,synthetic
+synthetic-demo-073,2026-09-11,Junior AI Engineer — Synthetic Demo,AI Engineer,Junior,87000,107000,97000,Python;RAG;Docker,Remote,Software,CA,local_synthetic_demo,,synthetic
+synthetic-demo-074,2026-09-12,Junior Data Scientist — Synthetic Demo,Data Scientist,Junior,72000,92000,82000,Python;SQL;Statistics;pandas,Hybrid,Software,IN,local_synthetic_demo,,synthetic
+synthetic-demo-075,2026-09-13,Junior ML Engineer — Synthetic Demo,ML Engineer,Junior,92000,112000,102000,Python;Docker;PyTorch;MLOps;AWS,Onsite,Software,US,local_synthetic_demo,,synthetic
+synthetic-demo-076,2026-09-14,Junior Data Analyst — Synthetic Demo,Data Analyst,Junior,47000,67000,57000,SQL;Excel;Tableau,Remote,Software,UK,local_synthetic_demo,,synthetic
+synthetic-demo-077,2026-09-15,Mid AI Engineer — Synthetic Demo,AI Engineer,Mid,112000,132000,122000,Python;RAG;Docker;SQL,Onsite,Software,IN,local_synthetic_demo,,synthetic
+synthetic-demo-078,2026-09-16,Mid Data Scientist — Synthetic Demo,Data Scientist,Mid,97000,117000,107000,Python;SQL;Statistics;pandas;Machine Learning,Remote,Software,US,local_synthetic_demo,,synthetic
+synthetic-demo-079,2026-09-17,Mid ML Engineer — Synthetic Demo,ML Engineer,Mid,117000,137000,127000,Python;Docker;PyTorch,Hybrid,Software,UK,local_synthetic_demo,,synthetic
+synthetic-demo-080,2026-09-18,Mid Data Analyst — Synthetic Demo,Data Analyst,Mid,72000,92000,82000,SQL;Excel;Tableau;Python,Onsite,Software,CA,local_synthetic_demo,,synthetic
+synthetic-demo-081,2026-09-19,Senior AI Engineer — Synthetic Demo,AI Engineer,Senior,,,,,Hybrid,Healthcare,US,local_synthetic_demo,,synthetic
+synthetic-demo-082,2026-09-20,Senior Data Scientist — Synthetic Demo,Data Scientist,Senior,127000,147000,137000,Python;SQL;Statistics,Onsite,Healthcare,UK,local_synthetic_demo,,synthetic
+synthetic-demo-083,2026-09-21,Senior ML Engineer — Synthetic Demo,ML Engineer,Senior,147000,167000,157000,Python;Docker;PyTorch;MLOps,Remote,Healthcare,CA,local_synthetic_demo,,synthetic
+synthetic-demo-084,2026-09-22,Senior Data Analyst — Synthetic Demo,Data Analyst,Senior,102000,122000,112000,SQL;Excel;Tableau;Python;Statistics,Hybrid,Healthcare,IN,local_synthetic_demo,,synthetic
+synthetic-demo-085,2026-09-23,Junior AI Engineer — Synthetic Demo,AI Engineer,Junior,89000,109000,99000,Python;RAG;Docker,Remote,Healthcare,UK,local_synthetic_demo,,synthetic
+synthetic-demo-086,2026-09-24,Junior Data Scientist — Synthetic Demo,Data Scientist,Junior,74000,94000,84000,Python;SQL;Statistics;pandas,Hybrid,Healthcare,CA,local_synthetic_demo,,synthetic
+synthetic-demo-087,2026-09-25,Junior ML Engineer — Synthetic Demo,ML Engineer,Junior,94000,114000,104000,Python;Docker;PyTorch;MLOps;AWS,Onsite,Healthcare,IN,local_synthetic_demo,,synthetic
+synthetic-demo-088,2026-09-26,Junior Data Analyst — Synthetic Demo,Data Analyst,Junior,49000,69000,59000,SQL;Excel;Tableau,Remote,Healthcare,US,local_synthetic_demo,,synthetic
+synthetic-demo-089,2026-09-27,Mid AI Engineer — Synthetic Demo,AI Engineer,Mid,114000,134000,124000,Python;RAG;Docker;SQL,Onsite,Finance,CA,local_synthetic_demo,,synthetic
+synthetic-demo-090,2026-09-28,Mid Data Scientist — Synthetic Demo,Data Scientist,Mid,99000,119000,109000,Python;SQL;Statistics;pandas;Machine Learning,Remote,Finance,IN,local_synthetic_demo,,synthetic
+synthetic-demo-091,2026-07-01,Mid ML Engineer — Synthetic Demo,ML Engineer,Mid,,,,Python;Docker;PyTorch,Hybrid,Finance,US,local_synthetic_demo,,synthetic
+synthetic-demo-092,2026-07-02,Mid Data Analyst — Synthetic Demo,Data Analyst,Mid,74000,94000,84000,SQL;Excel;Tableau;Python,Onsite,Finance,UK,local_synthetic_demo,,synthetic
+synthetic-demo-093,2026-07-03,Senior AI Engineer — Synthetic Demo,AI Engineer,Senior,144000,164000,154000,Python;RAG;Docker;SQL;LLM Evaluation,Hybrid,Finance,IN,local_synthetic_demo,,synthetic
+synthetic-demo-094,2026-07-04,Senior Data Scientist — Synthetic Demo,Data Scientist,Senior,129000,149000,139000,Python;SQL;Statistics,Onsite,Finance,US,local_synthetic_demo,,synthetic
+synthetic-demo-095,2026-07-05,Senior ML Engineer — Synthetic Demo,ML Engineer,Senior,149000,169000,159000,Python;Docker;PyTorch;MLOps,Remote,Finance,UK,local_synthetic_demo,,synthetic
+synthetic-demo-096,2026-07-06,Senior Data Analyst — Synthetic Demo,Data Analyst,Senior,104000,124000,114000,SQL;Excel;Tableau;Python;Statistics,Hybrid,Finance,CA,local_synthetic_demo,,synthetic
+synthetic-demo-097,2026-07-07,Junior AI Engineer — Synthetic Demo,AI Engineer,Junior,91000,111000,101000,Python;RAG;Docker,Remote,Software,US,local_synthetic_demo,,synthetic
+synthetic-demo-098,2026-07-08,Junior Data Scientist — Synthetic Demo,Data Scientist,Junior,76000,96000,86000,Python;SQL;Statistics;pandas,Hybrid,Software,UK,local_synthetic_demo,,synthetic
+synthetic-demo-099,2026-07-09,Junior ML Engineer — Synthetic Demo,ML Engineer,Junior,96000,116000,106000,Python;Docker;PyTorch;MLOps;AWS,Onsite,Software,CA,local_synthetic_demo,,synthetic
+synthetic-demo-100,2026-07-10,Junior Data Analyst — Synthetic Demo,Data Analyst,Junior,51000,71000,61000,SQL;Excel;Tableau,Remote,Software,IN,local_synthetic_demo,,synthetic
+synthetic-demo-101,2026-07-11,Mid AI Engineer — Synthetic Demo,AI Engineer,Mid,,,,,Onsite,Software,UK,local_synthetic_demo,,synthetic
+synthetic-demo-102,2026-07-12,Mid Data Scientist — Synthetic Demo,Data Scientist,Mid,101000,121000,111000,Python;SQL;Statistics;pandas;Machine Learning,Remote,Software,CA,local_synthetic_demo,,synthetic
+synthetic-demo-103,2026-07-13,Mid ML Engineer — Synthetic Demo,ML Engineer,Mid,121000,141000,131000,Python;Docker;PyTorch,Hybrid,Software,IN,local_synthetic_demo,,synthetic
+synthetic-demo-104,2026-07-14,Mid Data Analyst — Synthetic Demo,Data Analyst,Mid,76000,96000,86000,SQL;Excel;Tableau;Python,Onsite,Software,US,local_synthetic_demo,,synthetic
+synthetic-demo-105,2026-07-15,Senior AI Engineer — Synthetic Demo,AI Engineer,Senior,146000,166000,156000,Python;RAG;Docker;SQL;LLM Evaluation,Hybrid,Healthcare,CA,local_synthetic_demo,,synthetic
+synthetic-demo-106,2026-07-16,Senior Data Scientist — Synthetic Demo,Data Scientist,Senior,131000,151000,141000,Python;SQL;Statistics,Onsite,Healthcare,IN,local_synthetic_demo,,synthetic
+synthetic-demo-107,2026-07-17,Senior ML Engineer — Synthetic Demo,ML Engineer,Senior,151000,171000,161000,Python;Docker;PyTorch;MLOps,Remote,Healthcare,US,local_synthetic_demo,,synthetic
+synthetic-demo-108,2026-07-18,Senior Data Analyst — Synthetic Demo,Data Analyst,Senior,106000,126000,116000,SQL;Excel;Tableau;Python;Statistics,Hybrid,Healthcare,UK,local_synthetic_demo,,synthetic
+synthetic-demo-109,2026-07-19,Junior AI Engineer — Synthetic Demo,AI Engineer,Junior,93000,113000,103000,Python;RAG;Docker,Remote,Healthcare,IN,local_synthetic_demo,,synthetic
+synthetic-demo-110,2026-07-20,Junior Data Scientist — Synthetic Demo,Data Scientist,Junior,78000,98000,88000,Python;SQL;Statistics;pandas,Hybrid,Healthcare,US,local_synthetic_demo,,synthetic
+synthetic-demo-111,2026-07-21,Junior ML Engineer — Synthetic Demo,ML Engineer,Junior,,,,Python;Docker;PyTorch;MLOps;AWS,Onsite,Healthcare,UK,local_synthetic_demo,,synthetic
+synthetic-demo-112,2026-07-22,Junior Data Analyst — Synthetic Demo,Data Analyst,Junior,53000,73000,63000,SQL;Excel;Tableau,Remote,Healthcare,CA,local_synthetic_demo,,synthetic
+synthetic-demo-113,2026-07-23,Mid AI Engineer — Synthetic Demo,AI Engineer,Mid,118000,138000,128000,Python;RAG;Docker;SQL,Onsite,Finance,US,local_synthetic_demo,,synthetic
+synthetic-demo-114,2026-07-24,Mid Data Scientist — Synthetic Demo,Data Scientist,Mid,103000,123000,113000,Python;SQL;Statistics;pandas;Machine Learning,Remote,Finance,UK,local_synthetic_demo,,synthetic
+synthetic-demo-115,2026-07-25,Mid ML Engineer — Synthetic Demo,ML Engineer,Mid,123000,143000,133000,Python;Docker;PyTorch,Hybrid,Finance,CA,local_synthetic_demo,,synthetic
+synthetic-demo-116,2026-07-26,Mid Data Analyst — Synthetic Demo,Data Analyst,Mid,78000,98000,88000,SQL;Excel;Tableau;Python,Onsite,Finance,IN,local_synthetic_demo,,synthetic
+synthetic-demo-117,2026-07-27,Senior AI Engineer — Synthetic Demo,AI Engineer,Senior,148000,168000,158000,Python;RAG;Docker;SQL;LLM Evaluation,Hybrid,Finance,UK,local_synthetic_demo,,synthetic
+synthetic-demo-118,2026-07-28,Senior Data Scientist — Synthetic Demo,Data Scientist,Senior,133000,153000,143000,Python;SQL;Statistics,Onsite,Finance,CA,local_synthetic_demo,,synthetic
+synthetic-demo-119,2026-07-29,Senior ML Engineer — Synthetic Demo,ML Engineer,Senior,153000,173000,163000,Python;Docker;PyTorch;MLOps,Remote,Finance,IN,local_synthetic_demo,,synthetic
+synthetic-demo-120,2026-07-30,Senior Data Analyst — Synthetic Demo,Data Analyst,Senior,108000,128000,118000,SQL;Excel;Tableau;Python;Statistics,Hybrid,Finance,US,local_synthetic_demo,,synthetic

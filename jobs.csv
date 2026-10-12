@@ -1,0 +1,501 @@
+job_id,posted_date,title,role_category,seniority,salary_mid_usd,skills,remote_status,industry,country,source,source_url,data_origin
+luke:6763c7d8416b72f957c1a34ee71534cdd9ee2dd1df02eae42638048d5d3cbeaa,4/23/2023,Data Scientist II,Data Scientist,Mid,,Azure;Python;SQL;Spark,Remote,,US,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:190e268231c0bf030f87b4b34cce0090835ce9f72b2172620788f7419859dbc9,4/26/2023,Data Scientist,Data Scientist,,,Python;SQL,,,IN,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:c888fda6a6cf14946a94121719acd33dc9f4a9136dd297f3fcdc204a01ba42b4,1/31/2023,Data Scientist,Data Scientist,,,Python;SQL;Spark,,,BE,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:df858e8da67bcd891d1339523bf39b2122a8e7567ec20a6d4066ba959fde2064,9/30/2023,"PhD position in computer science (NLP, finance)",Other,,,Python,,,RU,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:c6e44d86332832bfd2db73fce0ab278a88dd37bdab3520da726cdd2f72555f28,6/27/2023,Data Scientist (DataLab Team),Data Scientist,,,Python,Remote,,RS,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:83addd03420682c5f589589b540a25244bbdf55471c3405abc281778bd479e95,3/13/2023,Sr. Data Scientist (NLP) - Full-time / Part-time,Data Scientist,Senior,,Azure;Python;Spark,,,US,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:edb90dc83e5b9f8f278bda89e05ff493cce6b39275df9faf626f675d75b3ba1d,11/13/2023,Data Scientist I,Data Scientist,,,Python;SQL,,,US,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:86f2424c12b0b115401dbccaf7101cd651caf64b5fda1448ee5472540773058f,4/12/2023,Binance Accelerator Program - Data Scientist (Risk Management),Data Scientist,,,Python,,,SG,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:c5c83dcb884392bf58aa0e789a200e8095a93e45bc6975a8f13a4e7a028668cf,8/24/2023,Sr ML Engineer - Research & NLP (Remote),ML Engineer,Senior,,PyTorch;Python;SQL,Remote,,CA,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:d45d74750bfc8f727981fdf66192300446147e9b940d0ab652068c45fd142c8e,11/16/2023,Data Scientist SME or Program Manager,Data Scientist,,,Git;SQL,,,US,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:0f356be30629210dd5246d4a8c247f1c4fcb2b79cdbd7674a53791af437a75d7,1/3/2023,Data Scientist,Data Scientist,,,Azure;Python;SQL,,,BR,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:32623579a88de603a8e74818b0ab31f0c54c9373eaf7d8f50559f3f7725336f8,1/14/2023,Senior Data Scientist,Data Scientist,Senior,,AWS;GCP;Python,,,FR,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:73953199d50f6b3f93c901f24562276be7fcc4df09fc763144ca5d7538e068fc,2/17/2023,Data Scientist,Data Scientist,,,Python,,,,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:e77279c96438758ff1387c86f9648a08b73ce372e6e2b25cd9571b807ee63e28,6/17/2023,Sr Principal Data Scientist/ML Engineer,Data Scientist,Lead,,PyTorch;Python;TensorFlow,,,,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:191df6d3ea7ae0a52b4ec887745c80d480a97c1dd5b507bcdeb45fe41a5e7f09,11/22/2023,Data Scientist,Data Scientist,,,Git;Python;SQL,,,AT,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:e6d4f9c914b0b9fefb3164d720dd1007c9c070029229f1aa79e5f14265d9c414,1/23/2023,Data Science,Data Scientist,,,AWS;Git;Kubernetes;Python;SQL,,,BR,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:939bae7a3321be46e533a261c2f3884136453f3d125abd6cb859a171071c5492,11/21/2023,Machine Learning Engineer/Scientist High Performance Computing,ML Engineer,,,PyTorch;Python,Remote,,CA,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:38ec4f5c03dbb94a2f675a212a204fa3bc25ea5098e3a1df5a1a9beeb418d2cc,3/23/2023,Data Science Team Lead,Data Scientist,Lead,,Python,,,SG,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:9d16f5ae43f7d62f6cefc3a6a605e7fef2ac99279134311f06e86c0ae68fe7b3,11/25/2023,Data Scientist,Data Scientist,,,Git;Python;SQL;Spark,,,AU,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+luke:69e70f0a9206c9749d4ef51f3bd35262b6310d1b27f47c2948a30f4022669fca,1/6/2023,Data Scientist,Data Scientist,,,Python;SQL;TensorFlow,,,CL,luke_posting,https://huggingface.co/datasets/lukebarousse/data_jobs,derived
+aijobs:42621a6693a743d532efd3f3:1,,Machine Learning Engineer,ML Engineer,Senior,139500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:2,,Machine Learning Engineer,ML Engineer,Senior,109400,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:3,,Data Scientist,Data Scientist,Mid,59188,,Onsite,,ES,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:4,,Data Scientist,Data Scientist,Mid,48426,,Onsite,,ES,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:5,,Machine Learning Engineer,ML Engineer,Senior,195940,,Onsite,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:6,,Machine Learning Engineer,ML Engineer,Senior,101378,,Onsite,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:7,,ML Engineer,ML Engineer,Senior,260000,,Remote,,CA,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:8,,ML Engineer,ML Engineer,Senior,110000,,Remote,,CA,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:9,,Machine Learning Engineer,ML Engineer,Senior,247500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:10,,Machine Learning Engineer,ML Engineer,Senior,172200,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:11,,Data Scientist,Data Scientist,Senior,239748,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:12,,Data Scientist,Data Scientist,Senior,159832,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:13,,Machine Learning Engineer,ML Engineer,Senior,163800,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:14,,Machine Learning Engineer,ML Engineer,Senior,126000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:15,,Data Scientist,Data Scientist,Mid,128750,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:16,,Data Scientist,Data Scientist,Mid,106250,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:17,,Data Science Manager,Data Scientist,Senior,299500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:18,,Data Science Manager,Data Scientist,Senior,245100,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:19,,Deep Learning Researcher,AI Engineer,Senior,123757,,Onsite,,DE,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:20,,Data Science Manager,Data Scientist,Mid,104500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:21,,Data Science Manager,Data Scientist,Mid,70000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:22,,Data Science Consultant,Data Scientist,Mid,90000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:23,,Data Science Consultant,Data Scientist,Mid,70000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:24,,Data Scientist,Data Scientist,Senior,210550,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:25,,Data Scientist,Data Scientist,Senior,153300,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:26,,Data Scientist,Data Scientist,Mid,200000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:27,,Data Scientist,Data Scientist,Mid,150000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:28,,Data Scientist,Data Scientist,Senior,175000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:29,,Data Scientist,Data Scientist,Senior,148750,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:30,,AI Developer,AI Engineer,Entry,215229,,Remote,,DE,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:31,,Machine Learning Engineer,ML Engineer,Senior,153400,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:32,,Machine Learning Engineer,ML Engineer,Senior,122700,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:33,,Data Scientist,Data Scientist,Senior,186300,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:34,,Data Scientist,Data Scientist,Senior,123900,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:35,,Machine Learning Engineer,ML Engineer,Senior,153400,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:36,,Machine Learning Engineer,ML Engineer,Senior,122700,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:37,,Data Scientist,Data Scientist,Mid,64568,,Hybrid,,FR,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:38,,Machine Learning Engineer,ML Engineer,Senior,247500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:39,,Machine Learning Engineer,ML Engineer,Senior,172200,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:40,,Data Scientist,Data Scientist,Senior,149076,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:41,,Data Scientist,Data Scientist,Senior,82365,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:42,,Machine Learning Engineer,ML Engineer,Senior,139500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:43,,Machine Learning Engineer,ML Engineer,Senior,109400,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:44,,Data Scientist,Data Scientist,Mid,150000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:45,,Data Scientist,Data Scientist,Mid,97750,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:46,,Data Scientist,Data Scientist,Senior,201000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:47,,Data Scientist,Data Scientist,Senior,122000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:48,,Data Scientist,Data Scientist,Mid,116990,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:49,,Data Scientist,Data Scientist,Mid,82920,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:50,,Data Scientist,Data Scientist,Senior,185900,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:51,,Data Scientist,Data Scientist,Senior,129300,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:52,,Machine Learning Scientist,ML Engineer,Mid,200000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:53,,Machine Learning Scientist,ML Engineer,Mid,125000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:54,,Data Scientist,Data Scientist,Senior,201000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:55,,Data Scientist,Data Scientist,Senior,122000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:56,,Machine Learning Engineer,ML Engineer,Senior,204500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:57,,Machine Learning Engineer,ML Engineer,Senior,142200,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:58,,Machine Learning Infrastructure Engineer,ML Engineer,Mid,205920,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:59,,Machine Learning Infrastructure Engineer,ML Engineer,Mid,171600,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:60,,Data Scientist,Data Scientist,Senior,190000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:61,,Data Scientist,Data Scientist,Senior,136000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:62,,Data Scientist,Data Scientist,Senior,275300,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:63,,Data Scientist,Data Scientist,Senior,183000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:64,,Data Scientist,Data Scientist,Senior,175000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:65,,Data Scientist,Data Scientist,Senior,160000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:66,,Data Scientist,Data Scientist,Senior,225000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:67,,Data Scientist,Data Scientist,Senior,156400,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:68,,Machine Learning Engineer,ML Engineer,Senior,163800,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:69,,Machine Learning Engineer,ML Engineer,Senior,126000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:70,,Machine Learning Engineer,ML Engineer,Senior,204500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:71,,Machine Learning Engineer,ML Engineer,Senior,142200,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:72,,Data Scientist,Data Scientist,Senior,260000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:73,,Data Scientist,Data Scientist,Senior,186000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:74,,Data Scientist,Data Scientist,Senior,48426,,Onsite,,ES,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:75,,Data Scientist,Data Scientist,Senior,38741,,Onsite,,ES,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:76,,Data Scientist,Data Scientist,Senior,150000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:77,,Data Scientist,Data Scientist,Senior,120000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:78,,Data Science Manager,Data Scientist,Senior,150000,,Remote,,MX,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:79,,Data Science Manager,Data Scientist,Senior,90000,,Remote,,MX,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:80,,Computer Vision Engineer,ML Engineer,Entry,220000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:81,,AI Developer,AI Engineer,Entry,64568,,Onsite,,DE,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:82,,Machine Learning Engineer,ML Engineer,Senior,204500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:83,,Machine Learning Engineer,ML Engineer,Senior,142200,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:84,,Machine Learning Engineer,ML Engineer,Mid,200000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:85,,Machine Learning Engineer,ML Engineer,Mid,175000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:86,,Machine Learning Engineer,ML Engineer,Senior,204500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:87,,Machine Learning Engineer,ML Engineer,Senior,142200,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:88,,Data Scientist,Data Scientist,Mid,40000,,Hybrid,,FR,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:89,,Data Science Consultant,Data Scientist,Senior,29865,,Hybrid,,TH,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:90,,Data Scientist,Data Scientist,Senior,136000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:91,,Data Scientist,Data Scientist,Senior,104000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:92,,Machine Learning Engineer,ML Engineer,Senior,153400,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:93,,Machine Learning Engineer,ML Engineer,Senior,122700,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:94,,Data Scientist,Data Scientist,Senior,185900,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:95,,Data Scientist,Data Scientist,Senior,129300,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:96,,Machine Learning Engineer,ML Engineer,Senior,247500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:97,,Machine Learning Engineer,ML Engineer,Senior,172200,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:98,,Machine Learning Engineer,ML Engineer,Senior,128280,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:99,,Machine Learning Engineer,ML Engineer,Senior,106900,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:100,,Machine Learning Engineer,ML Engineer,Senior,275000,,Onsite,,DE,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:101,,Machine Learning Engineer,ML Engineer,Senior,174000,,Onsite,,DE,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:102,,Machine Learning Engineer,ML Engineer,Senior,139500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:103,,Machine Learning Engineer,ML Engineer,Senior,109400,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:104,,Head of Data Science,Data Scientist,Lead,160524,,Onsite,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:105,,Head of Data Science,Data Scientist,Lead,127654,,Onsite,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:106,,Data Scientist,Data Scientist,Senior,149076,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:107,,Data Scientist,Data Scientist,Senior,82365,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:108,,Data Science Manager,Data Scientist,Senior,175000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:109,,Data Science Manager,Data Scientist,Senior,120000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:110,,Machine Learning Infrastructure Engineer,ML Engineer,Senior,205920,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:111,,Machine Learning Infrastructure Engineer,ML Engineer,Senior,171600,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:112,,Applied Machine Learning Engineer,ML Engineer,Mid,130000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:113,,AI Scientist,AI Engineer,Mid,38741,,Hybrid,,ES,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:114,,Data Scientist,Data Scientist,Senior,147100,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:115,,Data Scientist,Data Scientist,Senior,90700,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:116,,Machine Learning Engineer,ML Engineer,Senior,163800,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:117,,Machine Learning Engineer,ML Engineer,Senior,126000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:118,,Machine Learning Engineer,ML Engineer,Senior,269000,,Remote,,CA,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:119,,Machine Learning Engineer,ML Engineer,Senior,158000,,Remote,,CA,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:120,,Deep Learning Engineer,AI Engineer,Mid,150000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:121,,Deep Learning Engineer,AI Engineer,Mid,100000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:122,,Data Scientist,Data Scientist,Senior,300240,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:123,,Data Scientist,Data Scientist,Senior,200160,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:124,,Data Scientist,Data Scientist,Senior,300240,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:125,,Data Scientist,Data Scientist,Senior,200160,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:126,,Data Scientist,Data Scientist,Senior,370000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:127,,Data Scientist,Data Scientist,Senior,245000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:128,,Machine Learning Engineer,ML Engineer,Senior,323300,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:129,,Machine Learning Engineer,ML Engineer,Senior,184700,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:130,,Machine Learning Engineer,ML Engineer,Senior,186000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:131,,Machine Learning Engineer,ML Engineer,Senior,153088,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:132,,Machine Learning Engineer,ML Engineer,Senior,200000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:133,,Machine Learning Engineer,ML Engineer,Senior,150000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:134,,Machine Learning Engineer,ML Engineer,Senior,240000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:135,,Machine Learning Engineer,ML Engineer,Senior,180000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:136,,Machine Learning Engineer,ML Engineer,Senior,200000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:137,,Machine Learning Engineer,ML Engineer,Senior,150000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:138,,Data Science Manager,Data Scientist,Senior,299500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:139,,Data Science Manager,Data Scientist,Senior,245100,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:140,,Machine Learning Engineer,ML Engineer,Mid,148500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:141,,Machine Learning Engineer,ML Engineer,Mid,126277,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:142,,Machine Learning Software Engineer,ML Engineer,Senior,180000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:143,,Machine Learning Software Engineer,ML Engineer,Senior,90000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:144,,Data Scientist,Data Scientist,Senior,126500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:145,,Data Scientist,Data Scientist,Senior,78000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:146,,Machine Learning Software Engineer,ML Engineer,Senior,272000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:147,,Machine Learning Software Engineer,ML Engineer,Senior,170000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:148,,Data Scientist,Data Scientist,Senior,155000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:149,,Data Scientist,Data Scientist,Senior,139500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:150,,Data Scientist,Data Scientist,Entry,19539,,Remote,,BR,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:151,,Data Science Lead,Data Scientist,Senior,247500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:152,,Data Science Lead,Data Scientist,Senior,172200,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:153,,Data Scientist,Data Scientist,Senior,225000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:154,,Data Scientist,Data Scientist,Senior,156400,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:155,,Machine Learning Infrastructure Engineer,ML Engineer,Senior,107614,,Remote,,FR,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:156,,Machine Learning Infrastructure Engineer,ML Engineer,Senior,75330,,Remote,,FR,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:157,,Data Scientist,Data Scientist,Senior,185900,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:158,,Data Scientist,Data Scientist,Senior,129300,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:159,,Machine Learning Engineer,ML Engineer,Senior,139500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:160,,Machine Learning Engineer,ML Engineer,Senior,109400,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:161,,Machine Learning Engineer,ML Engineer,Senior,288000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:162,,Machine Learning Engineer,ML Engineer,Senior,140000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:163,,Machine Learning Engineer,ML Engineer,Senior,288000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:164,,Machine Learning Engineer,ML Engineer,Senior,140000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:165,,Data Science Lead,Data Scientist,Mid,73021,,Onsite,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:166,,Data Science Lead,Data Scientist,Mid,60851,,Onsite,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:167,,Data Scientist,Data Scientist,Senior,215050,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:168,,Data Scientist,Data Scientist,Senior,156400,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:169,,Machine Learning Engineer,ML Engineer,Senior,204500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:170,,Machine Learning Engineer,ML Engineer,Senior,142200,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:171,,Data Scientist,Data Scientist,Senior,209300,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:172,,Data Scientist,Data Scientist,Senior,182200,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:173,,Machine Learning Engineer,ML Engineer,Mid,48680,,Remote,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:174,,Machine Learning Engineer,ML Engineer,Senior,147100,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:175,,Machine Learning Engineer,ML Engineer,Senior,90700,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:176,,Data Scientist,Data Scientist,Entry,9739,,Onsite,,IN,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:177,,Data Scientist,Data Scientist,Mid,170000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:178,,Data Scientist,Data Scientist,Mid,120000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:179,,Machine Learning Engineer,ML Engineer,Senior,220000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:180,,Machine Learning Engineer,ML Engineer,Senior,170000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:181,,Data Science Manager,Data Scientist,Senior,231250,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:182,,Data Science Manager,Data Scientist,Senior,138750,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:183,,Machine Learning Engineer,ML Engineer,Senior,284310,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:184,,Machine Learning Engineer,ML Engineer,Senior,153090,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:185,,Data Science Lead,Data Scientist,Senior,225900,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:186,,Data Science Lead,Data Scientist,Senior,156400,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:187,,Machine Learning Engineer,ML Engineer,Senior,318300,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:188,,Machine Learning Engineer,ML Engineer,Senior,188800,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:189,,Data Scientist,Data Scientist,Senior,145000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:190,,Data Scientist,Data Scientist,Senior,135000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:191,,Data Scientist,Data Scientist,Senior,170000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:192,,Data Scientist,Data Scientist,Senior,90000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:193,,Data Scientist,Data Scientist,Senior,149076,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:194,,Data Scientist,Data Scientist,Senior,82365,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:195,,Machine Learning Engineer,ML Engineer,Mid,36000,,Remote,,MX,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:196,,Data Scientist,Data Scientist,Senior,175000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:197,,Data Scientist,Data Scientist,Senior,148750,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:198,,Data Scientist,Data Scientist,Senior,235000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:199,,Data Scientist,Data Scientist,Senior,185000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:200,,Machine Learning Engineer,ML Engineer,Mid,121702,,Onsite,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:201,,Machine Learning Engineer,ML Engineer,Mid,97361,,Onsite,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:202,,Data Scientist,Data Scientist,Senior,216100,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:203,,Data Scientist,Data Scientist,Senior,140800,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:204,,Machine Learning Engineer,ML Engineer,Mid,146042,,Onsite,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:205,,Machine Learning Engineer,ML Engineer,Mid,121702,,Onsite,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:206,,Computer Vision Software Engineer,ML Engineer,Senior,53807,,Remote,,NL,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:207,,Data Scientist,Data Scientist,Entry,110000,,Hybrid,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:208,,Data Scientist,Data Scientist,Mid,151410,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:209,,Data Scientist,Data Scientist,Mid,115360,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:210,,Director of Data Science,Data Scientist,Senior,126636,,Hybrid,,CA,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:211,,Data Scientist,Data Scientist,Entry,12783,,Hybrid,,IN,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:212,,Data Scientist,Data Scientist,Senior,250000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:213,,Data Scientist,Data Scientist,Senior,162500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:214,,Data Scientist,Data Scientist,Senior,185000,,Onsite,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:215,,Data Scientist,Data Scientist,Senior,120250,,Onsite,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:216,,Machine Learning Engineer,ML Engineer,Senior,204500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:217,,Machine Learning Engineer,ML Engineer,Senior,142200,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:218,,Data Scientist,Data Scientist,Senior,225000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:219,,Data Scientist,Data Scientist,Senior,156400,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:220,,Machine Learning Engineer,ML Engineer,Senior,163800,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:221,,Machine Learning Engineer,ML Engineer,Senior,126000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:222,,ML Engineer,ML Engineer,Senior,220000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:223,,ML Engineer,ML Engineer,Senior,150000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:224,,Machine Learning Engineer,ML Engineer,Senior,150000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:225,,Machine Learning Engineer,ML Engineer,Senior,125000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:226,,Data Scientist,Data Scientist,Senior,225000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:227,,Data Scientist,Data Scientist,Senior,156400,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:228,,Machine Learning Engineer,ML Engineer,Mid,110000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:229,,Head of Data Science,Data Scientist,Lead,314100,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:230,,Head of Data Science,Data Scientist,Lead,195800,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:231,,Data Scientist,Data Scientist,Senior,165000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:232,,Data Scientist,Data Scientist,Senior,144000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:233,,Data Scientist,Data Scientist,Senior,105000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:234,,Data Scientist,Data Scientist,Senior,70000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:235,,Data Scientist,Data Scientist,Senior,183000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:236,,Data Scientist,Data Scientist,Senior,134000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:237,,Machine Learning Engineer,ML Engineer,Senior,220000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:238,,Machine Learning Engineer,ML Engineer,Senior,150000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:239,,Machine Learning Engineer,ML Engineer,Senior,276000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:240,,Machine Learning Engineer,ML Engineer,Senior,184000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:241,,Data Scientist,Data Scientist,Senior,225000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:242,,Data Scientist,Data Scientist,Senior,156400,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:243,,Machine Learning Engineer,ML Engineer,Mid,180000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:244,,Machine Learning Engineer,ML Engineer,Mid,150000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:245,,Data Scientist,Data Scientist,Senior,228000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:246,,Data Scientist,Data Scientist,Senior,152000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:247,,Data Scientist,Data Scientist,Senior,209450,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:248,,Data Scientist,Data Scientist,Senior,158677,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:249,,Data Scientist,Data Scientist,Senior,63492,,Hybrid,,CY,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:250,,Data Scientist,Data Scientist,Senior,237000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:251,,Data Scientist,Data Scientist,Senior,145000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:252,,Data Scientist,Data Scientist,Senior,240000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:253,,Data Scientist,Data Scientist,Senior,139000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:254,,Data Scientist,Data Scientist,Senior,285800,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:255,,Data Scientist,Data Scientist,Senior,154600,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:256,,Head of Data Science,Data Scientist,Mid,60873,,Hybrid,,IN,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:257,,Data Science Manager,Data Scientist,Mid,220000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:258,,Data Science Manager,Data Scientist,Mid,195000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:259,,Data Scientist,Data Scientist,Entry,124234,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:260,,Data Scientist,Data Scientist,Entry,74540,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:261,,Machine Learning Engineer,ML Engineer,Mid,50000,,Onsite,,AM,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:262,,Data Scientist,Data Scientist,Senior,275300,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:263,,Data Scientist,Data Scientist,Senior,183500,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:264,,Data Scientist,Data Scientist,Senior,275300,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:265,,Data Scientist,Data Scientist,Senior,183500,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:266,,Data Scientist,Data Scientist,Senior,150000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:267,,Data Scientist,Data Scientist,Senior,120000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:268,,Data Scientist,Data Scientist,Entry,12905,,Hybrid,,IN,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:269,,Data Scientist,Data Scientist,Senior,136000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:270,,Data Scientist,Data Scientist,Senior,104000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:271,,Data Scientist,Data Scientist,Senior,110000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:272,,Data Scientist,Data Scientist,Senior,84000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:273,,ML Engineer,ML Engineer,Senior,200000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:274,,ML Engineer,ML Engineer,Senior,135000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:275,,AI Developer,AI Engineer,Entry,120000,,Hybrid,,BA,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:276,,Data Scientist,Data Scientist,Senior,190000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:277,,Data Scientist,Data Scientist,Senior,165000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:278,,Data Scientist,Data Scientist,Senior,225000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:279,,Data Scientist,Data Scientist,Senior,156400,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:280,,Computer Vision Engineer,ML Engineer,Senior,200000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:281,,Applied Data Scientist,Data Scientist,Mid,80000,,Remote,,KE,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:282,,Data Scientist,Data Scientist,Senior,257000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:283,,Data Scientist,Data Scientist,Senior,134000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:284,,Data Scientist,Data Scientist,Senior,77482,,Onsite,,LV,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:285,,Data Scientist,Data Scientist,Senior,38741,,Onsite,,LV,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:286,,Data Science Manager,Data Scientist,Senior,299500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:287,,Data Science Manager,Data Scientist,Senior,245100,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:288,,Data Scientist,Data Scientist,Mid,53807,,Hybrid,,RO,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:289,,Data Scientist,Data Scientist,Senior,237000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:290,,Data Scientist,Data Scientist,Senior,145000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:291,,Data Scientist,Data Scientist,Senior,130000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:292,,Data Scientist,Data Scientist,Senior,90000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:293,,Data Scientist,Data Scientist,Mid,183310,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:294,,Data Scientist,Data Scientist,Mid,183310,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:295,,Data Scientist,Data Scientist,Senior,210000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:296,,Data Scientist,Data Scientist,Senior,185000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:297,,Data Science Consultant,Data Scientist,Senior,122000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:298,,Data Science Consultant,Data Scientist,Senior,94000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:299,,Data Scientist,Data Scientist,Senior,220000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:300,,Data Scientist,Data Scientist,Senior,146000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:301,,Data Scientist,Data Scientist,Mid,25087,,Hybrid,,TH,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:302,,Data Science Consultant,Data Scientist,Senior,145000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:303,,Data Science Consultant,Data Scientist,Senior,128000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:304,,Data Scientist,Data Scientist,Senior,182000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:305,,Data Scientist,Data Scientist,Senior,140000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:306,,Machine Learning Engineer,ML Engineer,Senior,77482,,Onsite,,LV,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:307,,Machine Learning Engineer,ML Engineer,Senior,38741,,Onsite,,LV,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:308,,Data Scientist,Data Scientist,Lead,300000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:309,,Data Scientist,Data Scientist,Lead,200000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:310,,Data Scientist,Data Scientist,Senior,136000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:311,,Data Scientist,Data Scientist,Senior,104000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:312,,Data Scientist,Data Scientist,Senior,168000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:313,,Data Scientist,Data Scientist,Senior,130000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:314,,Data Scientist,Data Scientist,Senior,153400,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:315,,Data Scientist,Data Scientist,Senior,122700,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:316,,Data Scientist,Data Scientist,Senior,185000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:317,,Data Scientist,Data Scientist,Senior,160000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:318,,Data Scientist,Data Scientist,Senior,205000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:319,,Data Scientist,Data Scientist,Senior,185000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:320,,Machine Learning Engineer,ML Engineer,Senior,204500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:321,,Machine Learning Engineer,ML Engineer,Senior,142200,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:322,,Machine Learning Engineer,ML Engineer,Mid,145000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:323,,Machine Learning Engineer,ML Engineer,Mid,87000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:324,,Data Scientist,Data Scientist,Entry,50000,,Remote,,IN,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:325,,ML Engineer,ML Engineer,Senior,234100,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:326,,ML Engineer,ML Engineer,Senior,203500,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:327,,Data Scientist,Data Scientist,Senior,223800,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:328,,Data Scientist,Data Scientist,Senior,172100,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:329,,Data Scientist,Data Scientist,Senior,180000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:330,,Data Scientist,Data Scientist,Senior,150000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:331,,Data Scientist,Data Scientist,Senior,168400,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:332,,Data Scientist,Data Scientist,Senior,105200,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:333,,Machine Learning Engineer,ML Engineer,Senior,145000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:334,,Machine Learning Engineer,ML Engineer,Senior,135000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:335,,Data Science Engineer,Data Scientist,Senior,140000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:336,,Data Science Engineer,Data Scientist,Senior,100000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:337,,Data Science Manager,Data Scientist,Senior,297300,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:338,,Data Science Manager,Data Scientist,Senior,198200,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:339,,Data Scientist,Data Scientist,Senior,297300,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:340,,Data Scientist,Data Scientist,Senior,198200,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:341,,Data Scientist,Data Scientist,Senior,110000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:342,,Data Scientist,Data Scientist,Senior,84000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:343,,Machine Learning Engineer,ML Engineer,Mid,219000,,Hybrid,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:344,,Data Scientist,Data Scientist,Senior,185900,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:345,,Data Scientist,Data Scientist,Senior,129300,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:346,,Machine Learning Engineer,ML Engineer,Mid,175000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:347,,Machine Learning Engineer,ML Engineer,Mid,140000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:348,,Data Scientist,Data Scientist,Mid,187500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:349,,Data Scientist,Data Scientist,Mid,165000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:350,,Machine Learning Research Engineer,ML Engineer,Mid,73021,,Onsite,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:351,,Machine Learning Scientist,ML Engineer,Senior,225000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:352,,Machine Learning Scientist,ML Engineer,Senior,165750,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:353,,Machine Learning Engineer,ML Engineer,Mid,109166,,Onsite,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:354,,Machine Learning Engineer,ML Engineer,Mid,67240,,Onsite,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:355,,Data Scientist,Data Scientist,Senior,135000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:356,,Data Scientist,Data Scientist,Senior,115000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:357,,NLP Engineer,ML Engineer,Senior,275000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:358,,NLP Engineer,ML Engineer,Senior,175000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:359,,Data Scientist,Data Scientist,Senior,170000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:360,,Data Scientist,Data Scientist,Senior,140000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:361,,NLP Engineer,ML Engineer,Senior,235000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:362,,NLP Engineer,ML Engineer,Senior,135000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:363,,ML Engineer,ML Engineer,Senior,289076,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:364,,ML Engineer,ML Engineer,Senior,202353,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:365,,Deep Learning Engineer,AI Engineer,Entry,150000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:366,,Deep Learning Engineer,AI Engineer,Entry,120000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:367,,Data Scientist,Data Scientist,Senior,272550,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:368,,Data Scientist,Data Scientist,Senior,198200,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:369,,Data Scientist,Data Scientist,Senior,182000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:370,,Data Scientist,Data Scientist,Senior,140000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:371,,Machine Learning Engineer,ML Engineer,Senior,204500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:372,,Machine Learning Engineer,ML Engineer,Senior,142200,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:373,,Data Scientist,Data Scientist,Mid,120000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:374,,Data Scientist,Data Scientist,Mid,105000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:375,,Machine Learning Engineer,ML Engineer,Senior,204500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:376,,Machine Learning Engineer,ML Engineer,Senior,142200,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:377,,Computer Vision Engineer,ML Engineer,Senior,235000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:378,,Computer Vision Engineer,ML Engineer,Senior,185000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:379,,Data Scientist,Data Scientist,Senior,143100,,Onsite,,CA,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:380,,Data Scientist,Data Scientist,Senior,113000,,Onsite,,CA,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:381,,Data Scientist,Data Scientist,Senior,140000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:382,,Data Scientist,Data Scientist,Senior,120000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:383,,Data Scientist,Data Scientist,Senior,180560,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:384,,Data Scientist,Data Scientist,Senior,115440,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:385,,Data Scientist,Data Scientist,Senior,140000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:386,,Data Scientist,Data Scientist,Senior,120000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:387,,Data Scientist,Data Scientist,Senior,120000,,Onsite,,CA,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:388,,Data Scientist,Data Scientist,Senior,110000,,Onsite,,CA,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:389,,Machine Learning Engineer,ML Engineer,Mid,75455,,Remote,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:390,,Machine Learning Engineer,ML Engineer,Mid,63285,,Remote,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:391,,Machine Learning Engineer,ML Engineer,Mid,58417,,Remote,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:392,,Machine Learning Engineer,ML Engineer,Mid,46246,,Remote,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:393,,Machine Learning Engineer,ML Engineer,Senior,261500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:394,,Machine Learning Engineer,ML Engineer,Senior,134500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:395,,Data Scientist,Data Scientist,Mid,130000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:396,,Data Scientist,Data Scientist,Mid,90000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:397,,Data Scientist,Data Scientist,Senior,150000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:398,,Data Scientist,Data Scientist,Senior,140000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:399,,Data Science Consultant,Data Scientist,Senior,122000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:400,,Data Science Consultant,Data Scientist,Senior,94500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:401,,Data Science Consultant,Data Scientist,Senior,145000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:402,,Data Science Consultant,Data Scientist,Senior,128000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:403,,Applied Machine Learning Scientist,ML Engineer,Senior,150000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:404,,Data Scientist,Data Scientist,Mid,150000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:405,,Data Scientist,Data Scientist,Mid,127500,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:406,,Data Scientist,Data Scientist,Senior,126500,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:407,,Data Scientist,Data Scientist,Senior,51000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:408,,Applied Data Scientist,Data Scientist,Entry,40000,,Remote,,AU,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:409,,AI Programmer,Other,Entry,40000,,Remote,,PK,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:410,,Machine Learning Engineer,ML Engineer,Senior,210000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:411,,Machine Learning Engineer,ML Engineer,Senior,160000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:412,,Data Scientist,Data Scientist,Senior,272550,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:413,,Data Scientist,Data Scientist,Senior,198200,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:414,,Data Scientist,Data Scientist,Mid,94560,,Remote,,FR,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:415,,Data Scientist,Data Scientist,Mid,52533,,Remote,,FR,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:416,,Data Scientist,Data Scientist,Senior,220000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:417,,Data Scientist,Data Scientist,Senior,146000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:418,,Machine Learning Software Engineer,ML Engineer,Senior,248400,,Remote,,CA,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:419,,Machine Learning Software Engineer,ML Engineer,Senior,183600,,Remote,,CA,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:420,,Machine Learning Developer,ML Engineer,Entry,40000,,Remote,,PK,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:421,,Lead Data Scientist,Data Scientist,Senior,56723,,Onsite,,IN,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:422,,Data Science Consultant,Data Scientist,Entry,24165,,Hybrid,,IT,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:423,,Data Scientist,Data Scientist,Senior,140000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:424,,Data Scientist,Data Scientist,Senior,120000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:425,,Data Scientist,Data Scientist,Mid,150000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:426,,Data Scientist,Data Scientist,Mid,110000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:427,,Machine Learning Engineer,ML Engineer,Senior,246000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:428,,Machine Learning Engineer,ML Engineer,Senior,201000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:429,,Data Scientist,Data Scientist,Senior,190000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:430,,Data Scientist,Data Scientist,Senior,155000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:431,,ML Engineer,ML Engineer,Senior,235000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:432,,ML Engineer,ML Engineer,Senior,185000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:433,,Data Scientist,Data Scientist,Mid,92350,,Onsite,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:434,,Data Scientist,Data Scientist,Mid,67723,,Onsite,,GB,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:435,,Machine Learning Engineer,ML Engineer,Senior,204500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:436,,Machine Learning Engineer,ML Engineer,Senior,142200,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:437,,Machine Learning Engineer,ML Engineer,Senior,192000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:438,,Machine Learning Engineer,ML Engineer,Senior,164000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:439,,Data Science Manager,Data Scientist,Senior,175000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:440,,Data Science Manager,Data Scientist,Senior,120000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:441,,Data Scientist,Data Scientist,Mid,145000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:442,,Data Scientist,Data Scientist,Mid,100000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:443,,Machine Learning Software Engineer,ML Engineer,Entry,10000,,Hybrid,,MA,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:444,,Data Scientist,Data Scientist,Mid,31795,,Remote,,IN,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:445,,NLP Engineer,ML Engineer,Mid,44365,,Remote,,PL,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:446,,Machine Learning Engineer,ML Engineer,Senior,145000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:447,,Machine Learning Engineer,ML Engineer,Senior,135000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:448,,Data Scientist,Data Scientist,Senior,190000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:449,,Data Scientist,Data Scientist,Senior,150000,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:450,,AI Scientist,AI Engineer,Senior,125000,,Remote,,CO,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:451,,Data Scientist,Data Scientist,Senior,47280,,Onsite,,ES,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:452,,Data Scientist,Data Scientist,Senior,37824,,Onsite,,ES,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:453,,Data Scientist,Data Scientist,Senior,175000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:454,,Data Scientist,Data Scientist,Senior,140000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:455,,Data Scientist,Data Scientist,Senior,249500,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:456,,Data Scientist,Data Scientist,Senior,149850,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:457,,Computer Vision Engineer,ML Engineer,Mid,58837,,Remote,,FR,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:458,,Data Scientist,Data Scientist,Senior,210000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:459,,Data Scientist,Data Scientist,Senior,150000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:460,,Machine Learning Engineer,ML Engineer,Senior,210000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:461,,Machine Learning Engineer,ML Engineer,Senior,150000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:462,,Data Scientist,Data Scientist,Senior,182750,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:463,,Data Scientist,Data Scientist,Senior,161500,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:464,,Data Scientist,Data Scientist,Senior,136000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:465,,Data Scientist,Data Scientist,Senior,104000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:466,,Data Scientist,Data Scientist,Lead,159000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:467,,Data Scientist,Data Scientist,Lead,130000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:468,,Machine Learning Engineer,ML Engineer,Senior,246000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:469,,Machine Learning Engineer,ML Engineer,Senior,201000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:470,,Machine Learning Engineer,ML Engineer,Senior,255000,,Remote,,MX,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:471,,Machine Learning Engineer,ML Engineer,Senior,185000,,Remote,,MX,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:472,,3D Computer Vision Researcher,ML Engineer,Senior,10000,,Hybrid,,CA,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:473,,MLOps Engineer,ML Engineer,Mid,134000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:474,,MLOps Engineer,ML Engineer,Mid,124000,,Remote,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:475,,Data Scientist,Data Scientist,Entry,124234,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:476,,Data Scientist,Data Scientist,Entry,74540,,Onsite,,US,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:477,,AI Scientist,AI Engineer,Entry,200000,,Hybrid,,CA,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:478,,Machine Learning Engineer,ML Engineer,Entry,12000,,Remote,,AR,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:479,,Data Scientist,Data Scientist,Senior,47280,,Onsite,,ES,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
+aijobs:42621a6693a743d532efd3f3:480,,Data Scientist,Data Scientist,Senior,37824,,Onsite,,ES,aijobs_salary,https://huggingface.co/datasets/kestra/datasets/raw/main/csv/salaries.csv,derived
